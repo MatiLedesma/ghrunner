@@ -30,7 +30,7 @@ jobs:
     - name: Publish artifacts
       run: |
         mkdir publish
-        xcopy /s /e /y ghrunner\bin\Release\
+        xcopy /s /e /y ghrunner\ghrunner\bin\Release\
 
     - name: Upload artifacts
       uses: actions/upload-artifact@v2
