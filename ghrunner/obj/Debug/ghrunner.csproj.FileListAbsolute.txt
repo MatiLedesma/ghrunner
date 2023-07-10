@@ -1,0 +1,8 @@
+D:\Activity\ghrunner\ghrunner\bin\Debug\ghrunner.exe.config
+D:\Activity\ghrunner\ghrunner\bin\Debug\ghrunner.exe
+D:\Activity\ghrunner\ghrunner\bin\Debug\ghrunner.pdb
+D:\Activity\ghrunner\ghrunner\obj\Debug\ghrunner.csproj.AssemblyReference.cache
+D:\Activity\ghrunner\ghrunner\obj\Debug\ghrunner.csproj.SuggestedBindingRedirects.cache
+D:\Activity\ghrunner\ghrunner\obj\Debug\ghrunner.csproj.CoreCompileInputs.cache
+D:\Activity\ghrunner\ghrunner\obj\Debug\ghrunner.exe
+D:\Activity\ghrunner\ghrunner\obj\Debug\ghrunner.pdb
