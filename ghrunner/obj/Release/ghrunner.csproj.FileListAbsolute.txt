@@ -1,0 +1,8 @@
+D:\Activity\ghrunner\ghrunner\bin\Release\ghrunner.exe.config
+D:\Activity\ghrunner\ghrunner\bin\Release\ghrunner.exe
+D:\Activity\ghrunner\ghrunner\bin\Release\ghrunner.pdb
+D:\Activity\ghrunner\ghrunner\obj\Release\ghrunner.csproj.AssemblyReference.cache
+D:\Activity\ghrunner\ghrunner\obj\Release\ghrunner.csproj.SuggestedBindingRedirects.cache
+D:\Activity\ghrunner\ghrunner\obj\Release\ghrunner.csproj.CoreCompileInputs.cache
+D:\Activity\ghrunner\ghrunner\obj\Release\ghrunner.exe
+D:\Activity\ghrunner\ghrunner\obj\Release\ghrunner.pdb
